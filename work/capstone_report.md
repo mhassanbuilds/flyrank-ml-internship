@@ -1,8 +1,11 @@
 # Machine Learning Ranking for Content Review Prioritization
 
 **Author:** Muhammad Hassan
+
 **Lane:** Machine Learning / Content Opportunity Scoring
+
 **Repository:** `mhassanbuilds/flyrank-ml-internship`
+
 **Date:** August 28, 2026
 
 ---
