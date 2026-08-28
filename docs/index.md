@@ -180,7 +180,7 @@ The Random Forest produced the strongest measured ranking performance among the 
 
 ### Figure 1 — Model Comparison
 
-![Model Comparison](figures/model_comparison.png)
+![Model Comparison](../work/figures/model_comparison.png)
 
 *Figure 1. Precision@20, Precision@50, and Precision@100 for the Week-4 baseline, Logistic Regression, Decision Tree, and Random Forest on the client-aware holdout.*
 
@@ -195,7 +195,7 @@ The Random Forest measured different performance under different validation desi
 
 ### Figure 2 — Validation Design Comparison
 
-![Validation Sensitivity](figures/validation_sensitivity.png)
+![Validation Sensitivity](../work/figures/validation_sensitivity.png)
 
 *Figure 2. Measured Precision@20 under the row-level random split and the client-aware holdout.*
 
